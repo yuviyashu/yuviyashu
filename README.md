@@ -9,4 +9,4 @@ in the **healthcare and insurance** domains.
 - 🎓 **Certifications:** 4 Generative AI certifications (IBM / Coursera)
 - 💡 **On GitHub:** Building microservices and GenAI projects, and solving DSA problems in Java
 
-📫 Connect with me on [LinkedIn](www.linkedin.com/in/yuvaraj-k-77207a96)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/yuvaraj-k-77207a96)
